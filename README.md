@@ -18,3 +18,5 @@
 2주차 3-Point Bending Test (3점 굽힘 시험) `Updated 2026.09.20`
 
 3주차 Application of Strain Gage (스트레인 게이지) `Updated 2026.09.26`
+
+4주차 Indentation and Compression Test (압입압축 시험) `Updated 2026.10.06`
