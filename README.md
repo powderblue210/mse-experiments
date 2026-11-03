@@ -20,3 +20,7 @@
 3주차 Application of Strain Gage (스트레인 게이지) `Updated 2026.09.26`
 
 4주차 Indentation and Compression Test (압입압축 시험) `Updated 2026.10.06`
+
+### **동 제어**
+
+5주차 Sound Experiment (소음 실험) `Updated 2026.11.03`
