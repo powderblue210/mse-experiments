@@ -24,3 +24,9 @@
 ### **동 제어**
 
 5주차 Sound Experiment (소음 실험) `Updated 2026.11.03`
+
+6주차 Ultrasound Experiment (초음파 NDT 실험) `Updated 2026.11.03`
+
+7주차 QUBE-Servo 2 Control (1): Integration & Filtering (별도 코드 없음)
+
+8주차 QUBE-Servo 2 Control(2): Bump Test & First Principle Modeling (별도 코드 없음)
