@@ -30,3 +30,7 @@
 7주차 QUBE-Servo 2 Control (1): Integration & Filtering (별도 코드 없음)
 
 8주차 QUBE-Servo 2 Control(2): Bump Test & First Principle Modeling (별도 코드 없음)
+
+### **열 유체**
+
+9주차 Airjet Heat Transfer (에어제트 온도 및 속도 측정) `Updated 2026.11.24`
